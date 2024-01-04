@@ -1,0 +1,19 @@
+{
+  "name" : "samedov/framework",
+  "description": "My small framework from php",
+  "license": "GPL-3.0-only",
+  "authors": [
+    {
+      "name": "Elman Samedov",
+      "email": "e.samedov@yandex.ru"
+    }
+  ],
+  "require": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "\\" : "/"
+    }
+  }
+}
